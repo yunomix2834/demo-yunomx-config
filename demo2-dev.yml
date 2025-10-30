@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+demo2:
   information: "Yunomi Xavia Development"
   contactDetails:
     name: "Yunomi Xavia - Developer"
